@@ -1,0 +1,3 @@
+rootProject.name='GradleToASMStakeDemo'
+include ':app'
+include ':buildSrc'
